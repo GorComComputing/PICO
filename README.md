@@ -1,5 +1,7 @@
 # Домашний робот на RP2040
 
+![img/PICO.jpg](img/PICO.jpg)
+
 В основе робота положен микроконтроллер RP2040 на плате Raspberry Pi Pico.  
 Двухъядерный процессор Arm Cortex M0+
 
